@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "6AWUotWBACrodasUiBmLs9LQY2X1eDg71AGaQw97EHxh",
+  "symbol": "FMME",
+  "name": "Funny Meme",
+  "decimals": 9,
+  "logoURI": "https://i.postimg.cc/02LdXzZZ/file-00000000b9b871f4b2723527f1ad3310.png",
+  "tags": ["meme", "community"]
+}
